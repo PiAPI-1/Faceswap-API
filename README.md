@@ -31,6 +31,10 @@ Instantly enhance your apps with our fast and easy-to-use [Faceswap API](https:/
 
 <br>
 
+Please refer to our <a href="https://piapi.ai/pricing">pricing page</a> for more information.
+
+<br><br>
+
 <h2>Usage Steps</h2>
 
 <h3>Pay-as-you-go Option</h3>
