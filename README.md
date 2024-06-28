@@ -11,7 +11,7 @@ Instantly enhance your apps with our fast and easy-to-use [Faceswap API](https:/
   <li>Cost Effective</li>
   <li>Low Latency</li>
   <li>Supports High Concurrency</li>
-  <li>Easy Setup and Integration.</li>
+  <li>Easy Setup and Integration</li>
   <li>Asynchronous</li>
   <li>Automatic face detection</li>
   <li>Bulk generation</li>
