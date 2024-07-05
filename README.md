@@ -1,4 +1,4 @@
-# Faceswap-API
+# Faceswap API
 Instantly enhance your apps with our fast and easy-to-use [Faceswap API](https://piapi.ai/faceswap-api), creating remarkable customised images that will amaze your users!
 
 <br><br>
